@@ -1,0 +1,15 @@
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/bin/Debug/net6.0/exercise_58
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/bin/Debug/net6.0/exercise_58.deps.json
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/bin/Debug/net6.0/exercise_58.runtimeconfig.json
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/bin/Debug/net6.0/exercise_58.dll
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/bin/Debug/net6.0/exercise_58.pdb
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.csproj.AssemblyReference.cache
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.AssemblyInfoInputs.cache
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.AssemblyInfo.cs
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.dll
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/refint/exercise_58.dll
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.pdb
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/exercise_58.genruntimeconfig.cache
+/Users/admin/Desktop/seminar_8/exercise_54/exercise_58/obj/Debug/net6.0/ref/exercise_58.dll
